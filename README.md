@@ -7,7 +7,7 @@ This project focuses on analyzing attrition in a company's workforce using HR an
 The project explores various aspects of attrition, including overall attrition rates, gender distribution, correlation with factors such as overtime and performance rating, department-wise attrition, job roles, distance from home, education field, years in current role, marital status, age range, and income levels.
 
 ## Data Source:
-The analysis is based on a dataset containing relevant information about employees, such as demographic details, job roles, performance ratings, years of service, income, and attrition status. The dataset is sourced from the company's HR records.
+The analysis is based on a dataset containing relevant information about employees, such as demographic details, job roles, performance ratings, years of service, income, and attrition status. The dataset is sourced from Learnbay company's HR records.
 
 ## Analysis Highlights:
 
